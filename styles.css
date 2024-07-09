@@ -27,7 +27,7 @@ div#tswcontent {
   float: right;
   width: 80%;
   color: black;
-  background-color: white;
+  /* background-color: rgb(219, 92, 113); */
 }
 
 @media only screen and ( max-width : 629px ) {
@@ -48,7 +48,7 @@ div#tswcontproper {
 
 div#tswcontainer {
   color: ;
-  background-color: white;
+  background-color: orange;
 }
 
 div#tswsideproper, div#tswothersideproper {
@@ -63,6 +63,6 @@ div#tswheader {
 
 div#tswfooter {
   color: black;
-  background-color: white;
+  background-color: blueviolet;
 }
 

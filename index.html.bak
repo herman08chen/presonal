@@ -13,7 +13,9 @@
     <div id="tswcontainer">
       <div id="tswheader">
         <!-- start of header section: insert your logo, etc, here -->
-        <p>&nbsp; <img src="images/logo.jpg" alt="logo" title="logo" style="width: 61px; height: 61px;"></p>
+        <p>&nbsp; <a href="index.html" title="Home"><img src="images/logo.jpg"
+
+              alt="logo" title="logo" style="width: 61px; height: 61px;"></a></p>
         <!-- end of header section: insert your logo, etc, above this line --> </div>
       <div id="tswcontent">
         <div id="tswcontproper">
@@ -36,7 +38,6 @@
           <p>&nbsp;</p>
           <!-- end of content column: put your content above this line --> </div>
       </div>
-      
       <div id="tswsidecol">
         <div id="tswsideproper">
           <!-- start of side column: insert your navigation menu, etc, here -->
