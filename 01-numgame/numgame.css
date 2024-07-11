@@ -5,3 +5,12 @@
    3. elementtype (all elements of one type)
    4. * (all elements)
  */
+p{
+  font-size: 20px;
+}
+label{
+  font-size: 20px;
+}
+body{
+  background-color: blueviolet;
+}
