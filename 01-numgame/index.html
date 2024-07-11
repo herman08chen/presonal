@@ -1,0 +1,27 @@
+<!-- 1. Add elements         -->
+<!-- 2. Tag elements         -->
+<!-- 3. Link CSS and JS      -->
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my game</title>
+    <link rel="stylesheet" href="./numgame.css">
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
+</head>
+<body onload="loadGame()"> <!-- do something onload -->
+    <h1>Number Guessing Game</h1>
+
+    <label>Make a guess: </label>
+    <input id="num-field" type="number">
+
+    <button onclick="makeGuess()">MAKE GUESS</button>
+
+    <p id="message-text">50 is too low</p>
+    <!-- more elements here! -->
+    <script src="./numgame.js"></script>
+</body>
+</html>
